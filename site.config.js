@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Canada's Products',
+  name: 'Canada Products',
   domain: 'https://www.notion.so/12913ece98214a23afff0bddab5cd587',
   author: 'Xiaohua Yin',
 
